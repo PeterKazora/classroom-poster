@@ -1,0 +1,12 @@
+# Google key and sign-in files: these let the program post as you
+credentials*.json
+token*.json
+client_secret*.json
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# output of extras/make_banner.py
+class-header.png
